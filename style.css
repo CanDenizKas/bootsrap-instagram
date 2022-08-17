@@ -56,3 +56,12 @@ margin-left: 25px;
     justify-content: start;
     align-items: center;
   }
+
+.storyphoto {
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-left: -15px;
+}
