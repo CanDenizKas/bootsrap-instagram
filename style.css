@@ -1,0 +1,58 @@
+
+
+.navbarbg {height: 54px;
+}
+
+
+::placeholder  {
+    background-image: url("/assets/search-solid.svg");
+    text-align: center;
+    background-position: 35%;
+    background-size: 6%;
+    
+    
+ background-repeat: no-repeat;
+ 
+
+}
+
+
+.middlearea {height: 200px !important;}
+
+
+.card {
+
+    margin-top: 7%;
+}
+
+.card-body {
+
+display: inline;
+flex-direction: row;
+
+}
+
+.nav-item {
+    margin-top: 2px;
+    font-size: 22px
+}
+
+
+li {
+
+
+    padding-left: 20px;
+
+
+}
+
+.far .fa-bookmark .fa-lg {
+margin-left: 25px;
+
+}
+
+.flex1{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
